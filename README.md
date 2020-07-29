@@ -1,2 +1,3 @@
-# autodailer
-Auto Dailer Service for NSPBX
+# Autodailer
+
+Permite generar campañas de mensajes salientes desde un CSV

@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+ dialer:
+  image: nsoporte/dialer
+  container_name: dialer
+  network_mode: bridge
+  restart: always   
+  ports:
+   - 84:80
